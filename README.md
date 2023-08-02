@@ -1,5 +1,7 @@
 # Sistemas-de-Informacion-de-Mercados
 
+Enlace de acceso a documentos: https://drive.google.com/drive/folders/1cRLYYxxEjFn4f9qbg1UjKjsQHtafD1d0?usp=sharing
+
 En este repositorio, encontrarás una colección de 8 documentos de Excel con información detallada sobre diferentes sectores económicos relevantes. A continuación, se presenta una breve descripción de cada uno de los documentos:
 1. Sector Atún
 Este documento contiene información sobre el sector pesquero de atún, incluyendo capturas, cuotas de captura estimadas acumuladas por país y por especie, así como datos sobre capturas y buques de atún.
